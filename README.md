@@ -11,5 +11,6 @@ A passionate front end developer
 
 Connect with me:
 instagram.com/iam_abdishakourr?igsh=bWtjbGtrMml5bm1w
+
 Languages and Tools:
-tailwincsscpluspluscsharpcss3html5illustratorjavascriptmssqlmysqlphotoshoppythondjango
+tailwincss cplusplus csharp css html illustrator javascript mysql photoshop python django
